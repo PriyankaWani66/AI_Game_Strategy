@@ -1,4 +1,3 @@
-#Priyanka Pramod Wani
 from abc import ABC, abstractmethod
 import math
 from numbers import Number
